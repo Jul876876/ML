@@ -7,17 +7,17 @@
   </tr>
         <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Customer%20Attrition%20Prediction">Customer Attrition Prediction</a></td>
-    <td>Logistic regression was tested for balanced and imbalanced datasets. Class weights addition shows the best results in class imbalance control compared to other methods applied. Hyper-parameters selection for Random Forest Classifier shows F1 = 0.63 and auc_roc = 0.86 for test set.</td>
+    <td>Machine learning algorithm with f1-score = 0.63 was developed for customer attrition prediction analysis.</td>
     <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
       <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Customer%20Data%20Protection">Customer Data Protection</a></td>
-    <td>Ensure customer personal data protection by developing a data transformation method providing complicated personal information recovery. Verify correct functioning of the method. Encode customers' personal information in a way that machine learning models performance does not degrade.</td>
+    <td>Data transformation method providing complicated personal information recovery was developed.</td>
     <td>pandas, numpy, sklearn</td>
   </tr>
     <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Extraction%20efficiency%20prediction">Extraction efficiency prediction</a></td>
-    <td>Develop machine learning algorithm for gold extraction efficiency prediction using the extraction and processing parameters data.</td>
+    <td>Machine learning algorithm for gold extraction efficiency prediction was developed.</td>
     <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
   </tr>
   <tr>
