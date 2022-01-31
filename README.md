@@ -31,9 +31,9 @@
     <td>pandas, numpy, sklearn, math</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Recommender%20System">Recommender System</a></td>
+    <td>Machine learning algorithm with 81% accuracy was developed.</td>
+    <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
