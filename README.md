@@ -6,7 +6,7 @@
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-Customer_Attrition_Prediction">Customer Attrition Prediction</a></td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Customer%20Attrition%20Prediction">Customer Attrition Prediction</a></td>
     <td>Logistic regression was tested for balanced and imbalanced datasets. Class weights addition shows the best results in class imbalance control compared to other methods applied. Hyper-parameters selection for Random Forest Classifier shows F1 = 0.63 and auc_roc = 0.86 for test set.</td>
     <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
