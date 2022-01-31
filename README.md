@@ -7,8 +7,8 @@
   </tr>
         <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-Customer_Attrition_Prediction">Customer Attrition Prediction</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td>Logistic regression was tested for balanced and imbalanced datasets. Class weights addition shows the best results in class imbalance control compared to other methods applied. Hyper-parameters selection for Random Forest Classifier shows F1 = 0.63 and auc_roc = 0.86 for test set.</td>
+    <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
       <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
