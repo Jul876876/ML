@@ -21,9 +21,9 @@
     <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Pricing%20prediction">Pricing prediction</a></td>
+    <td>Machine learning model with high accuracy and low execution time was developed for used cars market value determination.</td>
+    <td>pandas, numpy, sklearn, math, plotly, matplotlib</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
