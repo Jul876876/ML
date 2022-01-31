@@ -26,9 +26,9 @@
     <td>pandas, numpy, sklearn, math, plotly, matplotlib</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Profitability%20prediction">Profitability prediction</a></td>
+    <td>Machine learning algorithm for oil field wells profitability analysis was delevoped. Poterntial profit and risks were assessed.</td>
+    <td>pandas, numpy, sklearn, math</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
