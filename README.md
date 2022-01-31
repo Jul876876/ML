@@ -18,7 +18,7 @@
     <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Extraction%20efficiency%20prediction">Extraction efficiency prediction</a></td>
     <td>Machine learning algorithm for gold extraction efficiency prediction was developed.</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td>pandas, numpy, sklearn, matplotlib, statsmodels</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Pricing%20prediction">Pricing prediction</a></td>
