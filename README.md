@@ -47,6 +47,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Jul876876/ML/tree/main/Machine%20Learning%20for%20Text">Machine Learning for Text</a></td>
-    <td>Number of car-hailing requests for the next hour was predicted in order to bring more drivers for the peak load periods. Prediction model with RMSE = 43.77 on the test set was developed.</td>
-    <td>pandas, numpy, sklearn, lightgbm, statsmodels</td>
+    <td>Logistic Regression model with required f1-score was developed. Ridge regularization was used for model improvement.</td>
+    <td>pandas, numpy, sklearn, nltk</td>
   </tr>
