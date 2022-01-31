@@ -71,15 +71,3 @@ The model helped to optimize production in order not to launch a plant with unpr
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/04-determination-of-a-profitable-plan-for-a-telecom-company">Determination of a profitable plan for a telecom company</a></td>
     <td>Based on the data of the mobile operators customers, i analyzed customer behavior and found the optimal plan for the company.
 </td>
-    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
-  </tr>
-     <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
-    <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
-    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
-  </tr>
-   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/02-research-on-the-reliability-of-borrowers">Research on the reliability of borrowers</a></td>
-    <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
-    <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
-</td>
