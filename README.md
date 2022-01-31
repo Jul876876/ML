@@ -52,11 +52,3 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
 
-    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
-    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
-  </tr>
-  <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
-    <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
-</td>
-
