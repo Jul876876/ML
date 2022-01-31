@@ -45,9 +45,4 @@
     <td>Number of car-hailing requests for the next hour was predicted in order to bring more drivers for the peak load periods. Prediction model with RMSE = 43.77 on the test set was developed.</td>
     <td>pandas, numpy, sklearn, lightgbm, statsmodels</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/Jul876876/ML/tree/main/Time%20Series%20Forecasting">Time Series Forecasting</a></td>
-    <td>Number of car-hailing requests for the next hour was predicted in order to bring more drivers for the peak load periods. Prediction model with RMSE = 43.77 on the test set was developed.</td>
-    <td>pandas, numpy, sklearn, lightgbm, statsmodels</td>
-  </tr>
 
