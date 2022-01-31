@@ -83,10 +83,3 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
     <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
 </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/01-yandex-music">Yandex Music</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Python, Pandas, Numpy</td>
-  </tr>
-</table>
