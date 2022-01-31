@@ -36,19 +36,14 @@
     <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
-    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Product%20Selection%20for%20Promotions">Product Selection for Promotions</a></td>
+    <td>Videogames sales data was analysed. The most influential characteristics were determined. Result of this study can we used for product selection for promotions.</td>
+    <td>pandas, scipy, matplotlib</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.
-The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Time%20Series%20Forecasting">Time Series Forecasting</a></td>
+    <td>Number of car-hailing requests for the next hour was predicted in order to bring more drivers for the peak load periods. Prediction model with RMSE = 43.77 on the test set was developed.</td>
+    <td>pandas, numpy, sklearn, lightgbm, statsmodels</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
-    <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
-    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
-  </tr>
+
 
