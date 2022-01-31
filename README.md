@@ -16,8 +16,8 @@
     <td>pandas, numpy, sklearn</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Extraction%20efficiency%20prediction">Extraction efficiency prediction</a></td>
+    <td>Develop machine learning algorithm for gold extraction efficiency prediction using the extraction and processing parameters data.</td>
     <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
   </tr>
   <tr>
