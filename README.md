@@ -11,7 +11,7 @@
     <td>pandas, numpy, sklearn, matplotlib</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-Customer_Data_Protection">Customer Data Protection</a></td>
+    <td><a href="https://github.com/Jul876876/ML/tree/main/Customer%20Data%20Protection">Customer Data Protection</a></td>
     <td>Ensure customer personal data protection by developing a data transformation method providing complicated personal information recovery. Verify correct functioning of the method. Encode customers' personal information in a way that machine learning models performance does not degrade.</td>
     <td>pandas, numpy, sklearn</td>
   </tr>
